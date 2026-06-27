@@ -14,14 +14,14 @@ title: "Publications"
 
 
 <li>
-<strong>Khatua, D. P.</strong>, Singh, A., Gurung, S., and Jayabalan, J. (2024).<br>
-<em>Pump fluence dependent carrier dynamics at the A-exciton of MoS₂: Monolayer vs. Bulk.</em><br>
-arXiv:2407.05038.
+<strong>Khatua, D. P.</strong>, Singh, A., Gurung, S., and Jayabalan, J. (2026).<br>
+<em>Ultrafast carrier dynamics in high-density photo-doped MoS₂ : monolayer vs multilayer</em><br>
+Journal of Physics: Condensed Matter.
 
 <br><br>
 
-<a class="btn btn--info" href="https://doi.org/10.48550/arXiv.2407.05038">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/papers/Khatua_arxiv_2024.pdf">PDF</a> 
+<a class="btn btn--info" href="https://iopscience.iop.org/article/10.1088/1361-648X/ae82a8">DOI</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/papers/khatua_jpcm_2026.pdf">PDF</a> 
 
 </li>
 
