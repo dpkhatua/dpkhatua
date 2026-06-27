@@ -12,4 +12,5 @@ title: "News"
 - Oct 10, 2022: Joined the UCLA Department of Mechanical & Aerospace Engineering as a postdoctoral scholar in Prof. Artur Davoyan group.
 - Aug 12, 2022 : Successfully defended my Ph.D. thesis titled “Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide” from RRCAT (HBNI) India.
 - June 9, 2022: Received an offer letter for a Postdoctoral Scholar position in the Department of Mechanical and Aerospace Engineering at the University of California, Los Angeles (UCLA).
+- April 25, 2022: Officially submitted my Ph.D. thesis, "Ultrafast Photoexcited Carrier Dynamics in Two-Dimensional Molybdenum Disulfide," to Homi Bhabha National Institute for examination.
 - Mar 11, 2022: Received an offer for a Postdoctoral Researcher position in Experimental Optics at the Institute of Physics of the Czech Academy of Sciences (CAS), Prague.
