@@ -6,6 +6,8 @@ title: "News"
 - June 25, 2026: 🎉 Our paper, "Ultrafast carrier dynamics in high-density photo-doped MoS₂: monolayer vs multilayer," has been accepted for publication in the Journal of Physics: Condensed Matter (JPCM).
 - Oct 1, 2025: Received an offer for a Postdoctoral Scholar position from Prof. Vincent Donnelly at the University of Houston. I chose to continue my research at UCLA and respectfully declined the offer.
 - Aug 29, 2025: Honored to receive an offer for the Principal Project Scientist position at IIT Tirupati to conduct research on atom cooling for quantum computation. I respectfully declined the offer to continue my research at UCLA.
+- May 7, 2025: Presented a poster onmy work “Ultrafast Plasmon Dynamics Under High-Intensity Laser Excitation” at CLEO 2025, one of the world’s leading conferences in lasers and photonics, held in Long Beach, California, USA.
+- March 17, 2025: Delivered an oral presentation on my work "Plasmon Excitation Under Extreme-Intensity Laser Pulses" at the APS Joint March Meeting and April Meeting 2025, Anaheim, California, USA.
 - Nov 15, 2024: Joined the UCLA Department of Physics & Astronomy as a postdoctoral scholar with Dr. Neal Crocker and Dr. W. A. Peebles.
 - Nov 14, 2024: Successfully concluded my postdoctoral tenure under Prof. Artur Davoyan in UCLA’s Department of Mechanical and Aerospace Engineering and transitioned to the Department of Physics & Astronomy to pursue research in plasma diagnostics and fusion science.
 - Sept 13, 2024: Received an offer for a Postdoctoral Scholar position from Dr. Neal Crocker at UCLA to conduct research in plasma-based fusion and advanced plasma diagnostics.
