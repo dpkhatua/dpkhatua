@@ -19,6 +19,8 @@ main:
       
       - title: "Books"
         url: /publications/#books
+      - title: "Thesis"
+        url: /publications/#thesis
 
   - title: "CV"
     url: /cv/
