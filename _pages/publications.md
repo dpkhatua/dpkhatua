@@ -52,7 +52,7 @@ Optical Materials <strong>126</strong>, 112224.
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.1016/j.optmat.2022.112224">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/DPK_OpticalMaterials_MoS2_ultrafastdynamics_ABC.pdf">PDF</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/papers/DPK_OpticalMaterials_MoS2_ultrafastdynamics_ABC.pdf">PDF</a>
 
 </li>
 
@@ -66,7 +66,7 @@ Journal of Physics: Condensed Matter <strong>34</strong>(15), 155401.
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.1088/1361-648X/ac4dbf">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/Khatua_2022_J._Phys.__Condens._Matter_34_155401.pdf">PDF</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/papers/Khatua_2022_J._Phys.__Condens._Matter_34_155401.pdf">PDF</a>
 
 </li>
 
@@ -80,7 +80,7 @@ Journal of Physics: Condensed Matter <strong>33</strong>(18), 185702.
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.1088/1361-648X/abeebe">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/Gurung_2021_J._Phys.__Condens._Matter_33_185702.pdf">PDF</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/papers/Gurung_2021_J._Phys.__Condens._Matter_33_185702.pdf">PDF</a>
 
 </li>
 
@@ -94,7 +94,7 @@ Photonics and Nanostructures – Fundamentals and Applications <strong>43</stron
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.1016/j.photonics.2020.100869">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/1-s2.0-S1569441020301978-main.pdf">PDF</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/papers/1-s2.0-S1569441020301978-main.pdf">PDF</a>
 
 </li>
 
@@ -108,7 +108,7 @@ Review of Scientific Instruments <strong>91</strong>(10), 103901.
 <br><br>
 
 <a class="btn btn--info" href="https://doi.org/10.1063/5.0010449">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/_papers/RSI-Instrumentation.pdf">PDF</a>
+<a class="btn btn--primary" href="{{ site.baseurl }}/papers/RSI-Instrumentation.pdf">PDF</a>
 
 </li>
 
