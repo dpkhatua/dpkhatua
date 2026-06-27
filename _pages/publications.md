@@ -14,9 +14,12 @@ title: "Publications"
 
 
 <li>
-<strong>Khatua, D. P.</strong>, Singh, A., Gurung, S., and Jayabalan, J. (2026).<br>
+<strong>Khatua, D. P.</strong><sup>*</sup>, Singh, A., Gurung, S., and Jayabalan, J.<sup>*</sup> (2026).<br>
 <em>Ultrafast carrier dynamics in high-density photo-doped MoS₂ : monolayer vs multilayer</em><br>
 Journal of Physics: Condensed Matter.
+
+<br>
+<small><sup>*</sup>Corresponding Authors</small>
 
 <br><br>
 
