@@ -24,7 +24,7 @@ Journal of Physics: Condensed Matter <strong>38</strong>, 275401
 <br><br>
 
 <a class="btn btn--info" href="https://iopscience.iop.org/article/10.1088/1361-648X/ae82a8">DOI</a>
-<a class="btn btn--primary" href="{{ site.baseurl }}/papers/khatua_jpcm_2026.pdf">PDF</a> 
+<a class="btn btn--primary" href="{{ site.baseurl }}/papers/khatua_jpcm_2026_1.pdf">PDF</a> 
 
 </li>
 
